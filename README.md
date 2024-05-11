@@ -1,4 +1,4 @@
-# Recruitment
+# NotADemocraticElection
 
 ![img](./assets/ChallengeBanner.jpg)
 ---
@@ -14,11 +14,11 @@ Difficulty: <font color=green>Easy</font>
 
 # Synopsis
 
-- This challenge serves as an entry-level warmup for the blockchain category. Players will learn how to interact with the infrastructure and solve the challenge by satisfying transaction constraints.
+- .
 
 ## Description
 
-- Do you think you have what it takes to live up to this crew? apply and prove it.
+- .
 
 ## Skills Required
 
@@ -28,7 +28,7 @@ Difficulty: <font color=green>Easy</font>
 ## Skills Learned
 
 - Smart contract interaction.
-- block.timestamp, block.number, tx.origin, msg.sender, gasleft().
+- .
 
 ## Analyzing the source code
 
